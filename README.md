@@ -24,7 +24,7 @@ sudo apt-get install nodejs
 sudo apt-get install npm
 ```
 
-- Download the bot
+- Clone the bot onto your AWS server with the following command
 
 ```js
 git clone "https://github.com/phantomdev-github/PhantomGuard.git"
