@@ -6,7 +6,7 @@ A Discord Moderation bot built in `Discord.JS` and utilising the `FS` module for
 
 Commands and Events are stored in their own separate folders.
 
-**Dependencies**
+## Dependencies
 - Discord.js: `11.5.1`
 
 ## devDependencies
