@@ -8,15 +8,15 @@ The Commands and Events are stored in their own separate folders for ease of man
 PhantomGuard was originally intended to be a Private Discord Moderation bot for PhantomDEV however do to server costs the project was abandoned and now serves as a base for anyone who wants it to clone and build their own Discord bot out of.
 
 ## Dependencies
-- Discord.js: `11.5.1`
+`Discord.js`: `11.5.1`
 
 ## devDependencies
-- nodemon: `1.19.2`
+`nodemon`: `1.19.2`
 
 ## Installation
-These instructions are for use with the AWS Webservers via WinSCP and PuTTy.  If you wish to use them without these, you will need to manually install `screens` onto your **Ubuntu**: `18.04` server along with the rest of the dependencies.
+These instructions are for use with the AWS Webservers via WinSCP and PuTTy.  If you wish to use them without these, you will need to manually install `screens` onto your `Ubuntu 18.04` server along with the rest of the dependencies.
 
-- Install `Node.JS` and `NPM` on **Ubuntu**: `18.04`
+- Install `Node.JS` and `NPM` on `Ubuntu 18.04`
 
 ```js
 sudo apte-get update
