@@ -1,5 +1,5 @@
 # PhantomGuard
-A Discord Moderation bot built in `Discord.JS`.
+Discord Moderation bot built in `Discord.JS`.
 
 ## Information
 PhantomGuard was built in `Discord.JS` and utilises the `FS` module for both it's Command Handler and Events Handler.
