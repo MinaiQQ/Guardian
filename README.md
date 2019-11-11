@@ -19,7 +19,7 @@ These instructions are for use with the AWS Webservers via WinSCP and PuTTy.  If
 - Install `Node.JS` and `NPM` on `Ubuntu 18.04`
 
 ```js
-sudo apte-get update
+sudo apt-get update
 sudo apt-get upgrade -y
 sudo apt-get install nodejs
 sudo apt-get install npm
