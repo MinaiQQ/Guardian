@@ -18,7 +18,7 @@ These instructions are for use with the AWS Webservers via WinSCP and PuTTy.  If
 
 - Install `Node.JS` and `NPM` on `Ubuntu 18.04`
 
-```js
+```
 sudo apte-get update
 sudo apt-get upgrade -y
 sudo apt-get install nodejs
@@ -27,25 +27,25 @@ sudo apt-get install npm
 
 - Clone the bot onto your server via the following command
 
-```js
+```
 git clone "https://github.com/phantomdev-github/PhantomGuard.git"
 ```
 
 - CD to the bot directory
 
-```js
+```
 cd ~/PhantomGuard
 ```
 
 - Install the base dependencies
 
-```js
+```
 npm -i
 ```
 
 - Install the devDeependencies
 
-```js
+```
 npm -i nodemon --run-dev
 ```
 
@@ -53,19 +53,19 @@ npm -i nodemon --run-dev
 
 - Launch a screens window
 
-```js
+```
 screen -S PhantomGuard
 ```
 
 - now run the bot
 
-```js
+```
 npm run start
 ```
 
 - to run the bot in dev mode use
 
-```js
+```
 npm run dev
 ```
 
@@ -73,13 +73,13 @@ If all went well the bot should but up and running.
 
 You can now close the screens window with
 
-```js
+```
 ctrl+a+d
 ```
 
  and finally exit the terminal with
  
-```js
+```
 exit
 ```
 
@@ -87,13 +87,13 @@ The bot will continue to run in screens without needing the user to keep it acti
 
 If you ever need to get back int the screen window, you can do so with
 
-```js
+```
 screen -R PhantomGuard
 ```
 
 If you have issues with screens you can use the following command to kill the PhantomGuard screen process
 
-```js
+```
 screen -S -X PhantomGuard quit
 ```
 
