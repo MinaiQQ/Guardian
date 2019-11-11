@@ -78,7 +78,19 @@ exit
 
 The bot will continue to run in screens without needing the user to keep it active.
 
+If you ever need to get back int the screen window, you can do so with
+
+```js
+screen -R PhantomGuard
+```
+
+If you have issues with screens you can use the following command to kill the PhantomGuard screen process
+
+```js
+screen -S -X PhantomGuard quit
+```
+
 ## Support
 
->- <a href=https://PhantomDEV.Enjin.com>PhantomDEV/a>
+>- <a href=https://PhantomDEV.Enjin.com>PhantomDEV</a>
 >- <a href=https://discord.gg/9R5GBe2>Discord</a>
