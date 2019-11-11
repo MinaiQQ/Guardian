@@ -18,7 +18,7 @@ These instructions are for use with the AWS Webservers via WinSCP and PuTTy.  If
 
 - Install `Node.JS` and `NPM` on `Ubuntu 18.04`
 
-```
+```node
 sudo apte-get update
 sudo apt-get upgrade -y
 sudo apt-get install nodejs
@@ -27,7 +27,7 @@ sudo apt-get install npm
 
 - Clone the bot onto your server via the following command
 
-```
+```git
 git clone "https://github.com/phantomdev-github/PhantomGuard.git"
 ```
 
@@ -39,13 +39,13 @@ cd ~/PhantomGuard
 
 - Install the base dependencies
 
-```
+```npm
 npm -i
 ```
 
 - Install the devDeependencies
 
-```
+```npm
 npm -i nodemon --run-dev
 ```
 
@@ -53,19 +53,19 @@ npm -i nodemon --run-dev
 
 - Launch a screens window
 
-```
+```screen
 screen -S PhantomGuard
 ```
 
 - now run the bot
 
-```
+```npm
 npm run start
 ```
 
 - to run the bot in dev mode use
 
-```
+```npm
 npm run dev
 ```
 
