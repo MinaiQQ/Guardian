@@ -8,7 +8,6 @@ Commands and Events are stored in their own separate folders.
 
 **Dependencies**
 - Discord.js: `11.5.1`
-- eslint: 6.3.0`
 
 ## devDependencies
 - nodemon: `1.19.2`
