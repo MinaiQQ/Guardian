@@ -99,5 +99,5 @@ screen -S -X PhantomGuard quit
 
 ## Support
 
-- **PhantomDEV**: https://PhantomDEV.Enjin.com>
+- **PhantomDEV**: https://PhantomDEV.Enjin.com
 - **Discord**: https://discord.gg/9R5GBe2
