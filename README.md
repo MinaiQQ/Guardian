@@ -14,9 +14,9 @@ PhantomGuard was originally intended to be a Private Discord Moderation bot for 
 - nodemon: `1.19.2`
 
 ## Installation
-These instructions are for use with the AWS Webservers via WinSCP and PuTTy.
+These instructions are for use with the AWS Webservers via WinSCP and PuTTy.  If you wish to use them without these, you will need to manually install `screens` onto your **Ubuntu**: `18.04` server along with the rest of the dependencies.
 
-- Install Node.JS and NPM on ubuntu 18.04
+- Install `Node.JS` and `NPM` on **Ubuntu**: `18.04`
 
 ```js
 sudo apte-get update
@@ -25,13 +25,13 @@ sudo apt-get install nodejs
 sudo apt-get install npm
 ```
 
-- Clone the bot onto your AWS server with the following command
+- Clone the bot onto your server via the following command
 
 ```js
 git clone "https://github.com/phantomdev-github/PhantomGuard.git"
 ```
 
-- Next CD to the bot directory
+- CD to the bot directory
 
 ```js
 cd ~/PhantomGuard
