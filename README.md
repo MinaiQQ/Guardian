@@ -62,6 +62,12 @@ screen -S PhantomGuard
 npm run start
 ```
 
+- to run the bot in dev mode use
+
+```js
+npm run dev
+```
+
 If all went well the bot should but up and running.
 
 You can now close the screens window with
