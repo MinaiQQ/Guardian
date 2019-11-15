@@ -1,11 +1,11 @@
-# PhantomGuard
+# Guardian
 Discord Moderation bot built in `Discord.JS`.
 
 ## Information
-PhantomGuard was built in `Discord.JS` and utilises the `FS` module for both it's Command Handler and Events Handler.
+Guardian was built in `Discord.JS` and utilises the `FS` module for both it's Command Handler and Events Handler.
 The Commands and Events are stored in their own separate folders for ease of management.
 
-PhantomGuard was originally intended to be a Private Discord Moderation bot for PhantomDEV however it has been released as an Open Source project for anyone who wants it to clone and build their own Discord bot out of.
+Guardian was originally intended to be a Private Discord Moderation bot for PhantomDEV however it has been released as an Open Source project for anyone who wants it to clone and build their own Discord bot out of.
 
 ## Dependencies
 `Discord.js`: `11.5.1`
@@ -28,13 +28,13 @@ sudo apt-get install npm
 - Clone the bot onto your server via the following command
 
 ```js
-git clone "https://github.com/phantomdev-github/PhantomGuard.git"
+git clone "https://github.com/phantomdev-github/Guardian.git"
 ```
 
 - CD to the bot directory
 
 ```js
-cd ~/PhantomGuard
+cd ~/Guardian
 ```
 
 - Install the base dependencies
@@ -54,7 +54,7 @@ npm -i nodemon --run-dev
 - Launch a screens window
 
 ```js
-screen -S PhantomGuard
+screen -S Guardian
 ```
 
 - now run the bot
@@ -88,13 +88,13 @@ The bot will continue to run in screens without needing the user to keep it acti
 If you ever need to get back int the screen window, you can do so with
 
 ```js
-screen -R PhantomGuard
+screen -R Guardian
 ```
 
 If you have issues with screens you can use the following command to kill the PhantomGuard screen process
 
 ```js
-screen -S -X PhantomGuard quit
+screen -S -X Guardian quit
 ```
 
 ## Support
