@@ -22,10 +22,5 @@ jobs:
         git clone "https://github.com/phantomdev-github/Guardian.git"
         cd ./Guardian
         npm i
-    - name: npm build, install
-      run: |
-        git clone "https://github.com/phantomdev-github/Guardian.git"
-        cd ./Guardian
-        npm i
       env:
         CI: true
