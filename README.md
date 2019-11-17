@@ -5,7 +5,7 @@ Discord Moderation bot built in `Discord.JS`.
 PhantomGuard was built in `Discord.JS` and utilises the `FS` module for both it's Command Handler and Events Handler.
 The Commands and Events are stored in their own separate folders for ease of management.
 
-PhantomGuard was originally intended to be a Private Discord Moderation bot for PhantomDEV however it has been released as an Open Source project for anyone who wants it to clone and build their own Discord bot out of.
+PhantomGuard was originally intended to be a Private Discord Moderation bot for PhantomDEV however do to server costs the project was abandoned and now serves as a base for anyone who wants it to clone and build their own Discord bot out of.
 
 ## Dependencies
 `Discord.js`: `11.5.1`
