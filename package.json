@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "PhantomNimbi <phantomdev2018@gmail.com>",
+  "author": "Joshua V. Lewis <darkwater409@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.5.1",
