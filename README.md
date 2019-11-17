@@ -91,7 +91,7 @@ If you ever need to get back int the screen window, you can do so with
 screen -R Guardian
 ```
 
-If you have issues with screens you can use the following command to kill the PhantomGuard screen process
+If you have issues with screens you can use the following command to kill the Guardian screen process
 
 ```js
 screen -S -X Guardian quit
