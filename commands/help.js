@@ -25,6 +25,6 @@ module.exports = {
             "prune")
             .addField("Utility", "ping, beep", true)
             .addBlankField(true)
-            .addField("Information", "server, avatar, args-info, user-info, help", true);
+            .addField("Information", "guild, avatar, args-info, user-info, help", true);
     message.channel.send({embed});
 }};
