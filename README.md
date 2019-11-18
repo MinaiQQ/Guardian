@@ -97,7 +97,12 @@ If you have issues with screens you can use the following command to kill the Gu
 screen -S -X Guardian quit
 ```
 
-## Support
+
+## Note 
+If you want the kick and ban commands to work, you will need to open the `kick.js.example` and `ban.js.example` files in the `./commands` folder and place the admin and server owner roles in the specified locatons. Then save the files as `kick.js` and `ban.js`.
+
+
+### Support
 
 - **PhantomDEV**: https://PhantomDEV.Enjin.com
 - **Discord**: https://discord.gg/9R5GBe2
