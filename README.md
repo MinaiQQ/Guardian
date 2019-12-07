@@ -102,7 +102,6 @@ screen -S -X Guardian quit
 If you want the kick and ban commands to work, you will need to open the `kick.js.example` and `ban.js.example` files in the `./commands` folder and place the admin and server owner roles in the specified locatons. Then save the files as `kick.js` and `ban.js`.
 
 
-### Support
+## Important
+This bot is shared AS IS. The creator is disabled and does not always have time to upload and or update the commands. As such updates ARE NOT done on a regular schedule. If you want to use this bot, you will need to rely on your own knowledge and skill to build it up to your own preferences.
 
-- **PhantomDEV**: https://PhantomDEV.Enjin.com
-- **Discord**: https://discord.gg/9R5GBe2
